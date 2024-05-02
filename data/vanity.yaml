@@ -1,0 +1,7 @@
+host: go.opscenter.dev
+
+paths:
+  /inbox-agent:
+    repo: https://github.com/ops-center/inbox-agent
+  /installer:
+    repo: https://github.com/ops-center/installer
