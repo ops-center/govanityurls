@@ -1,7 +1,8 @@
 host: go.opscenter.dev
-
 paths:
   /inbox-agent:
     repo: https://github.com/ops-center/inbox-agent
   /installer:
     repo: https://github.com/ops-center/installer
+  /james-go-client:
+    repo: https://github.com/ops-center/james-go-client
